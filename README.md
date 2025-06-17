@@ -1,4 +1,4 @@
-# BSc Thesis – Game Theory in Operations Research  
+# BSc Thesis – Operations Research  
 **Title:** Strategic Decision-Making in Competitive Environments  
 **Author:** Heider Jeffer  
 **Institution:** Al Mansour University College – Dept. of Operations Research  
